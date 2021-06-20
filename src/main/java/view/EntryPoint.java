@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 /**
- * Входная точка в программу
+ * Главный класс(Входная точка в программу)
  */
 public class EntryPoint {
 
